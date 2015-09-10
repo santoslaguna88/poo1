@@ -7,14 +7,14 @@
 *hacer el push
 *incluir el PR
 
-1.```git clone git@github.com : jafetismael/test/poo1.git
-´´´ 
+1.```git clone git@github.com : santoslaguna88/test/poo1.git
+Â´Â´Â´ 
 2. ```git checkout -b process markdown
-´´´
+Â´Â´Â´
 3. crear y editar un archivo en fizzbuzz
 ``` fizzbuzz.cpp
 cpp
-´´´
+Â´Â´Â´
 4. agregar el archivo a checkout -b fizzbuzz.cpp
 git add fizzbuzz.cpp
 untracked "fizzbuzz.cpp"
